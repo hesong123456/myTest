@@ -31,3 +31,6 @@ application.properties可配置属性
 * durTime 会话持续时间
 * threadNum 启动的线程数
 * async 是否采用异步 1:是 0:否
+
+## 代码说明
+* 见流程图（Flow-Chart.PNG)
